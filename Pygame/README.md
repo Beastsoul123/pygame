@@ -1,6 +1,6 @@
-# Pixel Runner
+# Monster Runner
 
-Pixel Runner is a simple side-scrolling endless runner game built using **Pygame**. The player must jump over obstacles to survive as long as possible, accumulating a score based on time survived.
+Monster Runner is a simple side-scrolling endless runner game built using **Pygame**. The player must jump over obstacles to survive as long as possible, accumulating a score based on time survived.
 
 ## Features
 
@@ -21,6 +21,7 @@ Pixel Runner is a simple side-scrolling endless runner game built using **Pygame
   - Displays score based on survival time
   - Game over screen with final score displayed
   - Restart game by pressing spacebar
+
 ![Screenshot 2025-02-01 113014](https://github.com/user-attachments/assets/7bd3b787-9cac-4635-8c63-9bb9195e0ee6)
 
 ![Screenshot 2025-02-01 113054](https://github.com/user-attachments/assets/90f8ea82-f010-418c-9981-d3afbe054a56)
@@ -77,6 +78,6 @@ PixelRunner/
 ## License
 This project is open-source and available for modification and distribution.
 
-Enjoy playing **Pixel Runner**! 🚀
+Enjoy playing **Monster Runner**! 🚀
 
 
